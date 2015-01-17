@@ -12,9 +12,9 @@ bundle
 
 2: Config your alipay.
 
-  TinAlipay.pid = 'alipay_pid'
-  TinAlipay.key = 'alipay_key'
-  TinAlipay.seller_email = '107191613@qq.com'
+  TinAlipay.pid = 'alipay_pid'                 #alipay_pid
+  TinAlipay.key = 'alipay_key'                 #alipay_key
+  TinAlipay.seller_email = '107191613@qq.com'  #alipay_email
 
 3: To pay money you should get alipay url.
 
