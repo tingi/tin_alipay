@@ -60,5 +60,4 @@ TinAlipay::Notify::Mobile.verify?(return_params)
 
 
 
-#if you have some troble when use this gem,to email me...
-107191613@qq.com
+#if you have some troble when use this gem,to email me......

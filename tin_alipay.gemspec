@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["tin"]
   s.email       = ["107191613@qq.com"]
   s.homepage    = "https://github.com/tingi/tin_alipay"
-  s.summary     = "The alipay directly payment web&mobile gem."
-  s.description = "The alipay directly payment web&mobile gem."
+  s.summary     = "The alipay directly payment web&mobile gem..."
+  s.description = "The alipay directly payment web&mobile gem..."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
